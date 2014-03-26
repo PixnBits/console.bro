@@ -3,6 +3,8 @@ console.bro
 
 console.bro is like console.log but with more bro. 
 
+Hope to become similar to http://brospeak.com/
+
 
 # Usage
 
